@@ -23,7 +23,7 @@ export default function HomePage() {
       <section id="hero" className="relative">
         <HeroSection />
       </section>
-      <section>
+      <section id="stats" className="relative">
         <StatsBar /></section>
 
       {/* 💬 NOT YOUR TYPICAL NETWORKING GROUP */}

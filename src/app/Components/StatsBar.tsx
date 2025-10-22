@@ -1,5 +1,5 @@
 
-export default function HeroSection() {
+export default function StatsBar() {
   return (
 
     <section className="relative isolate overflow-hidden text-gray-900 rounded-[32px] mx-auto max-w-7xl mt-10 md:mt-16">

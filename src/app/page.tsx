@@ -22,8 +22,9 @@ export default function HomePage() {
       {/* 🎯 HERO */}
       <section id="hero" className="relative">
         <HeroSection />
-        <StatsBar />
       </section>
+      <section>
+        <StatsBar /></section>
 
       {/* 💬 NOT YOUR TYPICAL NETWORKING GROUP */}
       <section id="networking" className="relative z-10">

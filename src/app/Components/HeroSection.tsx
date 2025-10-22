@@ -27,13 +27,13 @@ export default function HeroSection() {
           <div className="flex flex-wrap gap-4 mb-8">
             <Link
               href="#apply"
-              className="bg-gray-900 text-white px-6 py-3 rounded-md text-sm font-medium hover:bg-gray-800 transition"
+              className="bg-gray-900 text-white px-6 py-3 rounded-md text-sm font-sans font-medium hover:bg-gray-800 transition"
             >
               Apply Now
             </Link>
             <Link
               href="#how-it-works"
-              className="border border-gray-900 text-gray-900 px-6 py-3 rounded-md text-sm font-medium hover:bg-gray-900 hover:text-white transition"
+              className="border border-gray-900 text-gray-900 px-6 py-3 rounded-md text-sm font-sans font-medium hover:bg-gray-900 hover:text-white transition"
             >
               Learn How It Works
             </Link>

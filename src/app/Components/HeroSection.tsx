@@ -18,7 +18,7 @@ export default function HeroSection() {
           </h1>
 
           {/* Açıklama metni */}
-          <p className="text-base md:text-xl text-gray-800 mb-8 leading-relaxed">
+          <p className="text-base md:text-xl text-gray-800 mb-8 font-sans leading-relaxed">
             Alliatus connects ambitious people into small, handpicked groups for
             honest feedback, strategy sessions, and real accountability.
           </p>
@@ -40,7 +40,7 @@ export default function HeroSection() {
           </div>
 
           {/* Üye geri bildirimleri (rating) */}
-          <p className="text-sm italic text-gray-700">
+          <p className="text-sm italic font-sans text-gray-700">
             <span className="font-semibold">4.9★ average rating</span>
             <br />
             Feedback from real members across sessions.
